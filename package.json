@@ -1,0 +1,24 @@
+{
+  "name": "bench",
+  "version": "1.0.0",
+  "description": "Simple benchmark of restify vs express (latest)",
+  "main": "express.js",
+  "dependencies": {
+    "express": "~4.12.3",
+    "restify": "~3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lestoni/bench.git"
+  },
+  "author": "Tony Mutai <tonimut7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestoni/bench/issues"
+  },
+  "homepage": "https://github.com/lestoni/bench"
+}
